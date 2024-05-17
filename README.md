@@ -4,7 +4,6 @@
 [Conclusions](#Conclusions)
 [Slides](#Slides)
 [Install](#Install)
-[Contributing](#Contributing)
 [Contributors](#Contributors)
 
 ## Summary
